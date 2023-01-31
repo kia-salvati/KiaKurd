@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KiaKurd
 - 👀 I’m interested in virtual coin marketes
-- 🌱 I’m currently learning Laravel and Nuxt.js
+- 🌱 I’m currently Ruby on Rails
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : telegramID: @Over_the_horizon, email: kiyanosh.s@gmail.com
 
